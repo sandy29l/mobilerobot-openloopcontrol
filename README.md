@@ -138,7 +138,6 @@ ep_robot.close()
 
 ## MobileRobot Movement Video:
 
-
 https://youtu.be/Mhj7OcQrFbo
 
 <br/>
